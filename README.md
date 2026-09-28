@@ -96,7 +96,6 @@ The Power BI dashboard provides a visual overview of customer shopping patterns,
 
 ![Power BI Dashboard](images/dashboard.png)
 
-**Power BI Dashboard:** [Add your dashboard link here]
 
 ## 📈 Results & Business Recommendations
 
@@ -108,31 +107,6 @@ The analysis supports the following business recommendations:
 * **Improve Product Positioning:** Highlight highly rated and frequently purchased products in marketing campaigns.
 * **Targeted Marketing:** Focus campaigns on high-revenue age groups and customers who prefer Express shipping.
 
-## 📁 Project Structure
-
-```text
-Customer-Shopping-Behavior-Analysis/
-│
-├── data/
-│   └── customer_shopping_behavior.csv
-│
-├── notebooks/
-│   └── Customer_Shopping_Behavior_Analysis.ipynb
-│
-├── sql/
-│   └── analysis_queries.sql
-│
-├── dashboard/
-│   └── customer_shopping_behavior.pbix
-│
-├── presentation/
-│   └── Customer_Shopping_Behavior_Presentation.pptx
-│
-├── images/
-│   └── dashboard.png
-│
-└── README.md
-```
 
 ## 🚀 How to Run
 
@@ -204,8 +178,8 @@ Open the Power BI `.pbix` file in Power BI Desktop and configure the data connec
 
 Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
-* **GitHub:** [Add your GitHub profile link]
-* **LinkedIn:** [Add your LinkedIn profile link]
+* **GitHub:** https://github.com/kishanptll
+* **LinkedIn:** https://www.linkedin.com/in/kishan-patell-dataanalyst/
 
 ---
 
