@@ -83,7 +83,7 @@ Built an interactive dashboard to visualize:
 
 ## 📊 Dashboard
 
-![Power BI Dashboard] <img width="614" height="335" alt="dashboard" src="https://github.com/user-attachments/assets/2fd8856e-8361-4930-b556-b8656118aed2" />
+<img width="614" height="335" alt="dashboard" src="https://github.com/user-attachments/assets/2fd8856e-8361-4930-b556-b8656118aed2" />
 
 
 ## 📈 Business Insights & Recommendations
